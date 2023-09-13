@@ -34,17 +34,14 @@ https://github.com/MohamedHussien991999/social_app/assets/93053169/3387dc76-9f73
 
 
 ## C) Features
-• On Boarding Screen
 
 • Login /Register Screen
 
-• Products Screen
+• Feeds Screen
 
-• Categories Screen
+• Chats Screen -> Chat Details Screen
 
-•Search Screen
+• New Posts Screen
 
-•Favorites Screen
-
-•Setting Screen
+• Setting Screen -> Edit Profile
 
