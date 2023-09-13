@@ -1,4 +1,4 @@
-# Shoppy (Online Shopping app) 
+# Social App (Real Time chat and Post) 
 
 ## A) Video That descibtion  App
 
