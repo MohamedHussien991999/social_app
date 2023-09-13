@@ -1,16 +1,48 @@
-# social_app
+# Shoppy (Online Shopping app) 
 
-A new Flutter project.
+## A) Video That descibtion  App
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/MohamedHussien991999/social_app/assets/93053169/3387dc76-9f73-4dd4-aa71-4f5d8b8b4f74
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+##   B) Tools 
+
+
+  1) firebase_core
+  2) firebase_auth
+  3) cloud_firestore
+  4) firebase_storage
+  5) firebase_messaging
+#---------------Firebase-----------------
+  6) flutter_bloc
+  7) fluttertoast
+  8) shared_preferences
+  9) hexcolor
+  10) conditional_builder_null_safety
+  11) bloc
+  12) image_picker
+
+
+  
+
+
+## C) Features
+• On Boarding Screen
+
+• Login /Register Screen
+
+• Products Screen
+
+• Categories Screen
+
+•Search Screen
+
+•Favorites Screen
+
+•Setting Screen
+
